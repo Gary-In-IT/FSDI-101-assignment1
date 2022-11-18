@@ -2,4 +2,4 @@
 <hr>
 Basic HTML only folks, nothing fancy here.
 <br>
-Will improve bothe in elegance and fuction over time.
+Will improve both in elegance and fuction over time.
